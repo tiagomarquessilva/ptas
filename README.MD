@@ -25,6 +25,7 @@ Uma descrição mais detalhada dos requisitos pode ser encontrada na Documentaç
 - JavaScript;
 - CSS;
 - HTML;
+- [Git](https://git-scm.com/);
 - UML.
 
 ## Instalação
