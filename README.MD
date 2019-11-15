@@ -5,11 +5,11 @@ Este é o repositório relativo ao [PTAS](https://www.ua.pt/estga/uc/13449), ins
 ## Objetivos
 
 Resumidamente, o objetivo deste projeto é construir uma aplicação que utilize tecnologias WebSIG e routing. Para isso foi construida uma [aplicação de roteiros de arte urbana para a cidade de Estarreja](https://www.gis4cloud.com/ptas_grupo3_2019/) onde:
-    - É possivel visualizar as obras de arte no mapa;
-    - É possivel escolher que obras de arte quer visitar e é calculado a rota mais rápida;
-    - É possivel definir os locais de partida e chegada do trajeto.
-    - É possivel ver os pontos de interesse a X minutos da obra de arte;
-    - Heatmap para visualizar em que zonas existem mais obras de arte.
+- É possivel visualizar as obras de arte no mapa;
+- É possivel escolher que obras de arte quer visitar e é calculado a rota mais rápida;
+- É possivel definir os locais de partida e chegada do trajeto.
+- É possivel ver os pontos de interesse a X minutos da obra de arte;
+- Heatmap para visualizar em que zonas existem mais obras de arte.
 
 Uma descrição mais detalhada dos requisitos pode ser encontrada na Documentação deste documento. 
 
